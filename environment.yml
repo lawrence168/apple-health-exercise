@@ -1,0 +1,15 @@
+name: env
+
+dependencies:
+- python=3.6
+- notebook
+
+- lxml
+- pandas
+- matplotlib
+channels:
+- default
+- conda-forge
+
+
+
